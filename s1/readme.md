@@ -1,1 +1,4 @@
-aca van a ir todas las cosas de ka semana 1
+# Infovis
+## Semana 1
+### Why Some MLB Pitchers Are Abandoning The Fastball
+
