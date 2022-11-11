@@ -1,0 +1,2 @@
+# Infovis
+## Semana 2
